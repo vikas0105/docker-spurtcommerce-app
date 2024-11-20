@@ -76,6 +76,9 @@ Should you require any premium support, feel free to write to support@spurtcomme
 
 
 ---------------------------------------------------------------------------------------------------------------------
+Docker and compose installation
+
+
 
 #!/bin/bash
 
